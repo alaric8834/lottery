@@ -1,0 +1,16 @@
+{
+    "name": "alaric/lottery",
+    "description": "a timing",
+    "autoload": {
+        "psr-4": {
+            "alaric\\Lottery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alaric"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
